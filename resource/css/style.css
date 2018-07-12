@@ -1,5 +1,5 @@
 .header {
-  display: flex;
+  display: inline-flex;
   width: 100%;
   font-family: Verdana;
   font-size: 14px;
