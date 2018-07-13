@@ -10,5 +10,12 @@ header {
 }
 
 .logo span {
-  color: mediumAquamarine;
+  color: mediumaquamarine;
+  font-size: 18px;
+  align-items: center;
+}
+
+.logo nav {
+  display: inline-block;
+  justify content: flex-end;
 }
