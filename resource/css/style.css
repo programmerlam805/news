@@ -7,15 +7,14 @@ header {
 }
 .logo {
   display: flex;
+  align-items: center;
 }
 
 .logo span {
   color: mediumaquamarine;
   font-size: 18px;
-  align-items: center;
 }
 
-.logo nav {
-  display: inline-block;
-  justify content: flex-end;
+header nav {
+  padding-right: 40px;
 }
