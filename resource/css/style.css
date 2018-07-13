@@ -1,15 +1,14 @@
-.header {
-  display: inline-flex;
+header {
+  display: flex;
   width: 100%;
   font-family: Verdana;
   font-size: 14px;
   font-weight: bold;
 }
-
-.header span {
+header nav span {
   display: inline-block;
 }
 
-.header .logo {
-  color: "MediumAquamarine";
+header .logo {
+  color: mediumAquamarine;
 }
