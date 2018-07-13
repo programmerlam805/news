@@ -5,10 +5,10 @@ header {
   font-size: 14px;
   font-weight: bold;
 }
-header nav span {
-  display: inline-block;
+.logo {
+  display: flex;
 }
 
-header .logo {
+.logo span {
   color: mediumAquamarine;
 }
