@@ -1,3 +1,11 @@
+/* Universal Styles */
+
+nav span {
+  display: inline-block;
+}
+
+/* Header */
+
 header {
   display: flex;
   width: 100%;
